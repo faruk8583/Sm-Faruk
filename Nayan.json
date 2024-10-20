@@ -7,7 +7,7 @@ h{
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "singer",
+  "BOTNAME": "Faruk",
   "PREFIX": ",",
   "OPERATOR": [
     "100014896964436",
